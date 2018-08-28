@@ -7,3 +7,7 @@ body, a, .font-heading, .font-body, .form-control, {
 .heading .heading--title {
     font-family: 'Poppins', sans-serif;
 }
+
+.slider .slide--headline{
+    font-size: 70px;
+}
