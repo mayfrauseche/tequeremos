@@ -17,4 +17,5 @@ body, a, .font-heading, .font-body, .form-control, {
     flex-direction: column;
     margin-right: 100px;
     margin-left: 150px;
+    align-items: flex-start;
 }
